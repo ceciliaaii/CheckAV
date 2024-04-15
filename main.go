@@ -10,7 +10,7 @@ import (
 
 func main() {
 	// 指定 avList.txt 文件的路径
-	avListPath := "E:\\GolandProject\\src\\avList.txt"
+	avListPath := "C:\\Users\Elone\\Desktop\\avList.txt"
 	fmt.Println("avList.txt 文件的路径:", avListPath)
 
 	// 打开 avList.txt 文件
