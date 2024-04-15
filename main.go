@@ -1,4 +1,4 @@
-package CheckAV
+package main
 
 import (
 	"bufio"
