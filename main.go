@@ -1,4 +1,4 @@
-package ChekAV
+package main
 
 import (
 	"bufio"
